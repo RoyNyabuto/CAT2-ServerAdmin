@@ -18,6 +18,9 @@
     <br><br>
 
     <a href="login.php">Login</a>
+<br><br>
+
+<a href="feedback.php">Student Feedback</a>
 
 </div>
 
